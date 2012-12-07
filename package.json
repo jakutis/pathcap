@@ -10,7 +10,7 @@
         "web": "https://jakut.is/"
     }],
     "bin": {
-        "scsync": "./bin/pathcap"
+        "pathcap": "./bin/pathcap"
     },
     "contributors": [],
     "bugs": "mailto:vytautas@jakut.is",
