@@ -15,8 +15,8 @@
     "contributors": [],
     "bugs": "mailto:vytautas@jakut.is",
     "license": {
-        "type": "unlicense",
-        "url": "https://jakut.is/git/SCSYNC/plain/LICENSE"
+        "type": "mit",
+        "url": "https://jakut.is/git/PATHCAP/plain/LICENSE"
     },
     "repository": {
         "type": "git",
