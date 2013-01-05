@@ -1,7 +1,7 @@
 {
     "name": "pathcap",
     "description": "Recursively rename directories and files to have names no longer than given number of bytes",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "keywords": ["fs", "rename", "cap", "file", "filename", "path", "pathname"],
     "homepage": "https://jakut.is/git/PATHCAP/about/",
     "maintainers": [{
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://jakut.is/PATHCAP"
+        "url": "https://jakut.is/git/PATHCAP"
     },
     "dependencies": {
         "async": "0.1.x",
