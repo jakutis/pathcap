@@ -5,9 +5,7 @@
     "keywords": ["fs", "rename", "cap", "file", "filename", "path", "pathname"],
     "homepage": "https://www.npmjs.org/package/pathcap",
     "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is/)",
-    "bin": {
-        "pathcap": "./bin/pathcap"
-    },
+    "bin": "cli.js",
     "contributors": [],
     "bugs": "https://github.com/jakutis/pathcap/issues",
     "license": "GPL-3.0",
