@@ -10,7 +10,7 @@
     },
     "contributors": [],
     "bugs": "https://github.com/jakutis/pathcap/issues",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/jakutis/pathcap"
